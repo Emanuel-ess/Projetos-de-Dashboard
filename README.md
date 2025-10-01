@@ -1,8 +1,8 @@
-# Projetos de DataViz (Power BI, Tableau)
+# Projetos de Data Visualization
 
-## O que você irá encontrar aqui?
+## O que você irá encontrar aqui
 
-Neste portfólio, você encontrará meus projetos mais relevantes na área de Data Science e Analytics.
+Neste portfólio, você encontrará meus projetos mais relevantes na área de Analytics.
 
 Cada projeto busca demonstrar minhas habilidades técnicas e analíticas. E também minha capacidade de transformar dados brutos em insights e soluções para problemas do mundo real.
 
